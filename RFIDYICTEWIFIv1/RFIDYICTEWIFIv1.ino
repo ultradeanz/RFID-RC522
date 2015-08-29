@@ -20,7 +20,7 @@ byte ethansCard[4] = {0x9, 0x6E, 0x7A, 0x9E };
 byte ronansCard[4] = {0x6A, 0x32, 0x20, 0x2B};
 int matchStatus;
 
-char tagServerURL[] ="thedeans.id.au/cgi-bin/TagInCGI.py";
+char tagServerURL[] ="site.com.au/cgi-bin/cgiscript";
 
 WiFiClient wirelessClient;
 int status = WL_IDLE_STATUS;
